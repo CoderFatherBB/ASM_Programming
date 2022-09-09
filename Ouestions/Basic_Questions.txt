@@ -1,0 +1,19 @@
+1. Display Character
+2. Input Character
+
+3. Display String
+4. Input String
+
+5. Display Bio
+6. Input Bio
+
+7. Additon of 8 bit hex numbers
+8. Additon of 16 bit hex numbers
+
+9. Subtraction of 8 bit hex numbers
+10. Subtraction of 16 bit hex numbers
+
+11. Multiplication of 8 bit hex numbers
+12. Multiplication of 16 bit hex numbers
+
+13. Division of 16 bit hex numbers by 8 bit hex number
