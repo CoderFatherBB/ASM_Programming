@@ -11,8 +11,8 @@
 		MOV AX, @DATA
 		MOV DS, AX
 
-		MOV AX, 00H 		; Initialize sum = 0 in AX
-		MOV CX, 00H 		; Initialize carry = 0 in CX
+		MOV AX, 0000H 		; Initialize sum = 0 in AX
+		MOV CX, 0000H 		; Initialize carry = 0 in CX
 
 		MOV AX, N1 
 		MOV BX, N2 
