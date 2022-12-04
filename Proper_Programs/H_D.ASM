@@ -72,7 +72,6 @@
                MOV AX, NUMH
                MOV BX, 000AH
                LEA SI, NUMD
-               MOV DI, SI
          REP1: DIV BX
                MOV [SI], DL
                MOV DX, 0000H
