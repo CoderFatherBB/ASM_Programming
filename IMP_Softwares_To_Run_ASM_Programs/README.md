@@ -1,44 +1,26 @@
-<div align="center">
-  <h1 align="center">Imp Softwares To Run Asm Programs</h1>
-  <p align="center">
-    <strong>Project from the <a href="https://github.com/CoderFatherBB/ASM_Programming">ASM_Programming</a> Repository</strong>
-  </p>
-</div>
+# Imp Softwares To Run ASM Programs
 
----
+Part of [`ASM_Programming`](https://github.com/CoderFatherBB/ASM_Programming) at `IMP_Softwares_To_Run_ASM_Programs`.
 
-## 📖 Overview
+## About
 
-Welcome to the **Imp Softwares To Run Asm Programs** project! This directory contains the specific source code, resources, and implementation details for this project.
+`Imp Softwares To Run ASM Programs` documents the files and subfolders for this part of the `ASM_Programming` repository.
 
+## Contents
 
+- `DOSBox0.74-3-win32-installer.exe`: project file.
+- `edit.com`: project file.
+- `TASM.EXE`: project file.
+- `TD.EXE`: project file.
+- `TLINK.EXE`: project file.
 
----
+## Use
 
-## 🚀 Getting Started
+Open the files in this folder directly, or use them from the parent project as supporting resources.
 
-### Prerequisites
-Make sure you have the necessary environment setup to run or build this project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
-
-### Running the Code
-1. Ensure you are in the project directory:
-   ```bash
-   cd "IMP_Softwares_To_Run_ASM_Programs"
-   ```
-2. Execute the main scripts or compile the source code according to the language standards.
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>
